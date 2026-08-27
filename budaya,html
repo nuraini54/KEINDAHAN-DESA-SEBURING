@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Budaya Desa Seburing</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+    <nav>
+        <h2>🌿 Desa Seburing</h2>
+
+        <ul>
+            <li><a href="index.html">Beranda</a></li>
+            <li><a href="tentang.html">Tentang</a></li>
+            <li><a href="wisata.html">Wisata</a></li>
+            <li><a href="budaya.html">Budaya</a></li>
+            <li><a href="galeri.html">Galeri</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section class="page-header">
+    <h1>Budaya & Tradisi</h1>
+    <p>Kekayaan budaya masyarakat Desa Seburing</p>
+</section>
+
+<section class="section">
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>🤝 Gotong Royong</h3>
+            <p>
+                Masyarakat saling membantu dalam berbagai
+                kegiatan desa.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🎉 Tradisi Desa</h3>
+            <p>
+                Tradisi menjadi bagian penting dalam kehidupan
+                masyarakat Desa Seburing.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🍚 Makanan Khas</h3>
+            <p>
+                Makanan lokal menjadi salah satu kekayaan
+                budaya desa.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+<footer>
+    <p>© 2026 Desa Seburing</p>
+</footer>
+
+</body>
+</html>
